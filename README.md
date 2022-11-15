@@ -1,5 +1,5 @@
 # Anteckningar 2022-11-15
-Demonstration av struktar i C. Även motsvarande struktar i C++ demonstreras för att demonstrera syntaxskillnader.
+Demonstration av struktar i C. Även motsvarande struktar i C++ presenteras för att demonstrera syntaxskillnader.
 
 Filen "electrical.h" innehåller strukten electrical samt deklarationer av associerade funktioner för lagring av elektriska storheter.
 
